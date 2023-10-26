@@ -1,6 +1,6 @@
-Certainly! Here's a complete Markdown code for your sorting algorithm visualization project README:
 
-```markdown
+
+
 # Sorting Algorithm Visualization
 
 This is a web-based project that visualizes various sorting algorithms. It provides a visual representation of how different sorting algorithms work and can be used as an educational tool to understand their behavior.
@@ -71,4 +71,3 @@ We would like to thank the developers of various sorting algorithms and the open
 
 ---
 
-Feel free to customize this README file with specific details about your project, including the project's name, features, and usage instructions. Also, replace placeholders like "yourusername" and "your-demo-link.com" with actual information relevant to your project.
